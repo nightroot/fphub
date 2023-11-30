@@ -7,18 +7,18 @@
 
 ## 指纹平台
 ### Fofa指纹库
-[https://fofa.info/library](https://fofa.info/library)
+https://fofa.info/library
 
 ### ZoomEye指纹库
-[https://www.zoomeye.org](https://www.zoomeye.org)
+https://www.zoomeye.org
 
 ### Shodan
-[https://www.shodan.io/](https://www.shodan.io/)
+https://www.shodan.io
 
 ### Censys
 
 ### TideFinger潮汐指纹
-[http://finger.tidesec.com](http://finger.tidesec.com)
+http://finger.tidesec.com
 
 ### 云悉指纹
-[https://www.yunsee.cn/](https://www.yunsee.cn/)
+https://www.yunsee.cn/
