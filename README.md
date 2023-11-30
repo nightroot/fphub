@@ -4,6 +4,7 @@
 ## 开源指纹仓库
 - https://github.com/winezer0/whatweb-plus-plugins/
 - https://github.com/0x727/FingerprintHub/
+- https://github.com/LubyRuffy/fofa Fofa早期源码仓库
 
 ## 指纹平台
 ### Fofa指纹库
